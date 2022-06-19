@@ -1,6 +1,6 @@
 {
   "name": "@s1031432/csv2json",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert String of CSV (a,b,c\\n11,12,13\\n21,22,23...) to JSON format object.",
   "main": "index.js",
   "scripts": {
