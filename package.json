@@ -11,5 +11,9 @@
     "json"
   ],
   "author": "Yi-Tang, Huang.",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/s1031432"
+  },
+  "repository": "git://github.com/s1031432/csv2json.git"
 }
