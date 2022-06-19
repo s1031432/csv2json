@@ -1,6 +1,6 @@
 {
   "name": "@s1031432/csv2json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert String of CSV (a,b,c\\n11,12,13\\n21,22,23...) to JSON format object.",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,5 @@
     "json"
   ],
   "author": "Yi-Tang, Huang.",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/s1031432"
-  },
-  "repository": "git://github.com/s1031432/csv2json.git"
+  "license": "MIT"
 }
